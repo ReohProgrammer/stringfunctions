@@ -7,6 +7,8 @@
 
 #include "string.h"
 
+/*This function calculates the length of a char array*/
+
 int my_strlen(char *s)
 {
 	int i = 0;
